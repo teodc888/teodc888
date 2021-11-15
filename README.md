@@ -1,6 +1,6 @@
 ![portada](https://user-images.githubusercontent.com/29457718/141834763-37867cfc-35d7-4cea-b135-5d38a93fed12.png)
 
-### 					    <h1 align='Center'> FULL STACK DEVELOPER 💻</h1>
+### 					    <h1 align='Center'>💻 FULL STACK DEVELOPER 💻</h1>
 
 Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó todo tipo de tecnologia, decidi inclinarme para la rama de la PROGRAMACION y fue lo mejor que hice en mi vida 🚀🚀🚀
 
