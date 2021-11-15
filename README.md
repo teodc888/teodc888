@@ -3,8 +3,8 @@
 ### 					    <h1 align='Center'>💻 FULL STACK DEVELOPER 💻</h1>
 
 Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó todo tipo de tecnologia. Decidí inclinarme para la rama de la PROGRAMACION y fue lo mejor que hice en mi vida 🚀🚀🚀
-
-## <h2> ☢ LENGUAJES ☢</h2> 
+#
+☢ LENGUAJES ☢
 - ReactJS
 - Redux
 - NodeJS
@@ -13,6 +13,7 @@ Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó to
 - JavaScript
 - HTML
 - CSS
+#
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teodc888&show_icons=true&theme=radical)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teodc888&layout=compact)](https://github.com/teodc888/github-readme-stats)
