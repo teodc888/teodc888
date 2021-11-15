@@ -2,7 +2,7 @@
 
 ### 					    <h1 align='Center'>💻 FULL STACK DEVELOPER 💻</h1>
 
-Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó todo tipo de tecnologia. Decidi inclinarme para la rama de la PROGRAMACION y fue lo mejor que hice en mi vida 🚀🚀🚀
+Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó todo tipo de tecnologia. Decidí inclinarme para la rama de la PROGRAMACION y fue lo mejor que hice en mi vida 🚀🚀🚀
 
 ## <h2> ☢ LENGUAJES ☢</h2> 
 - ReactJS
