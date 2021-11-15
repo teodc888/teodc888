@@ -14,9 +14,9 @@ Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó to
 - HTML
 - CSS
 #
-Proyectos Realizados:
+⚒️ Proyectos Realizados ⚒️:
 
-SPA con la temática de Countries.
+- SPA con la temática de Countries.
 
 ![Captura de pantalla de 2021-11-15 16-14-23](https://user-images.githubusercontent.com/29457718/141840473-8439d751-d03a-40f1-b391-726102ba1609.png)
 
