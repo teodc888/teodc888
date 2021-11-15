@@ -4,7 +4,7 @@
 
 Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó todo tipo de tecnologia, decidi inclinarme para la rama de la PROGRAMACION y fue lo mejor que hice en mi vida 🚀🚀🚀
 
-###<h2> ☢ LENGUAJES ☢</h2> 
+## <h2> ☢ LENGUAJES ☢</h2> 
 - ReactJS
 - Redux
 - NodeJS
