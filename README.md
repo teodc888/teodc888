@@ -1,16 +1,18 @@
-### Hi there 👋
+![portada](https://user-images.githubusercontent.com/29457718/141834763-37867cfc-35d7-4cea-b135-5d38a93fed12.png)
 
-<!--
-**teodc888/teodc888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 					    <h1 align='Center'> FULL STACK DEVELOPER 💻</h1>
 
-Here are some ideas to get you started:
+Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó todo tipo de tecnologia, decidi inclinarme para la rama de la PROGRAMACION y fue lo mejor que hice en mi vida 🚀🚀🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###<h2> ☢ LENGUAJES ☢</h2> 
+- ReactJS
+- Redux
+- NodeJS
+- ExpressJS
+- PostgresSQL
+- JavaScript
+- HTML
+- CSS
+
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teodc888&show_icons=true&theme=radical)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teodc888&layout=compact)](https://github.com/teodc888/github-readme-stats)
