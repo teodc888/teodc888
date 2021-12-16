@@ -35,6 +35,9 @@ https://github.com/teodc888/COUNTRIES_APP
 ![Captura de pantalla de 2021-12-14 21-42-02](https://user-images.githubusercontent.com/29457718/146102186-e3ba5915-976b-44b2-8ec6-04c9aada9d15.png)
 
 #
+- APP PELICULAS.
+https://github.com/teodc888/Peliculas-App
+![Captura de pantalla de 2021-12-16 16-40-16](https://user-images.githubusercontent.com/29457718/146437972-3d0c5883-443e-4b9a-b5cc-a577ab3f8019.png)
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teodc888&show_icons=true&theme=radical)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teodc888&layout=compact)](https://github.com/teodc888/github-readme-stats)
