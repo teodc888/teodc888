@@ -13,6 +13,8 @@ Hola me llamo Mateo DellAcqua, soy de Cordoba Argentina, siempre me apacionó to
 - JavaScript
 - HTML
 - CSS
+- C#
+- Angular
 #
 ⚒️ PROYECTOS REALIZADOS ⚒️:
 
